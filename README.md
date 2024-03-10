@@ -23,7 +23,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jay-thakur-147/jay-thakur-147/output/snake.svg" alt="Snake animation" />
+ 
 
 ###
 
