@@ -1,4 +1,4 @@
- <p align="left">JAY KISHOR THAKUR</p>
+ <p align="center">JAY KISHOR THAKUR</p>
 
 ###
 
