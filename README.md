@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.licdn.com/dms/image/D5612AQF_jGTodjhpiQ/article-cover_image-shrink_720_1280/0/1690540082500?e=1718236800&v=beta&t=nc7Bt9zJUwXpENE_q16_Bq9xumfm8kpOko7QapqCEME"  />
 </div>
 
 ###
